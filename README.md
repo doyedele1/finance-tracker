@@ -1,4 +1,4 @@
-# Pound (Finance) Tracker
+# Finance Tracker
 
 This is a finance tracking app.
 
