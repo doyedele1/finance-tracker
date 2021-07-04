@@ -1,8 +1,6 @@
-# # Finance Tracker
+# Finance Tracker
 
-This is a finance tracking app.
-
-The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0.
+This is a finance tracking app generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0.
 
 ## Development server
 
